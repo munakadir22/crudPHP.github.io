@@ -1,5 +1,5 @@
 # crudPHP.github.io
-silahkan di Lihat,Ambil,Modifikasi (LAM)
+ori source: https://github.com/farhanadeata/WebCRUD 
 
 TAMPILAN WEBSITE
 ![gambar](https://user-images.githubusercontent.com/100106630/162618264-44bcdab9-7a52-4587-84d4-e4f3c4f0930a.png)
